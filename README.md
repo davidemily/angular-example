@@ -1,5 +1,7 @@
 # AngularExample
 
+Test page implementing Okta's Angular widget by following their documentation
+
 ```
 git clone https://github.com/davidemily/angular-example.git
 cd angular-example
